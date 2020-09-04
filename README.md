@@ -1,3 +1,3 @@
 # covid-map
 
-A Mapping app with leaflet and NovelCOVID API.
+Covid19 tracker with leaflet and NovelCovid API
