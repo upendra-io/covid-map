@@ -3,7 +3,7 @@ import React, { useRef, useEffect } from "react";
 import "./Leaflet.css";
 import mapEffect from "../../data/countries";
 
-const position = [51.505, -0.09];
+const position = [20.5937, 78.9629];
 
 export const Leaflet = () => {
   const mapRef = useRef();
