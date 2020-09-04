@@ -4,3 +4,38 @@
   margin-left: 20%;
   margin-top: 5%;
 }
+h2 {
+  font-size: 1.5em;
+  line-height: 1.2;
+  margin-bottom: 0.1em;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin: 0.1em 0;
+  font-weight: normal;
+}
+
+ul,
+p {
+  font-weight: normal;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.6em 0 0;
+}
+
+.marker-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  width: 16em;
+  font-size: 1.4em;
+  padding: 1em;
+  background-color: blueviolet;
+  border-radius: 0.4em;
+  margin-bottom: 1em;
+  box-shadow: 0 3px 5px rgba(black, 0.9);
+}
